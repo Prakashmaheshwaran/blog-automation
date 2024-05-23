@@ -23,6 +23,8 @@ This project automates the generation of SEO-optimized blog content using Gemini
 - Python 3.7 or higher
 - Gemini Python client library
 - Pandas library
+- Selenium
+- (in requirments.txt file)
 
 ## Contributing
 
@@ -39,6 +41,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-*Note: Replace placeholder values such as `yourusername`, `your-api-key`, and contact information with your actual details.*
+*The End*
 
 ---
