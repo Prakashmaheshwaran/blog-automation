@@ -1,5 +1,5 @@
 # 🚀 Blog Automation Project
-##(It is working but not publicly flexible, another project is under creation i will link it here when it done
+## (It is working but not publicly flexible, another project is under creation i will link it here when it done)
 ## Overview
 
 This project automates the generation of SEO-optimized blog content using Gemini. It uses a CSV file for blog details and a JSON file for prompt templates to create comprehensive blog posts, SEO titles, meta descriptions, and more.
