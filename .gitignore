@@ -2,3 +2,4 @@
 .env
 app.log
 __pycache__/
+test.py
